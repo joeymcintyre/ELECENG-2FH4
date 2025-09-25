@@ -1,5 +1,6 @@
 # ELECENG-2FH4
-Electromagnetics I - Mathematical foundations of electromagnetics (selected topics of vector calculus); electrostatics, magnetostatics and conduction; introduction to time-varying fields through Faraday’s law
+Electromagnetics I - Mathematical foundations of electromagnetics (selected topics of vector calculus); electrostatics, magnetostatics and conduction; introduction to time-varying fields through Faraday’s law.
+
 Contains:
 - MATLAB Assignment 1 - Set 1
 - MATLAB Assignment 2 - Set 2
